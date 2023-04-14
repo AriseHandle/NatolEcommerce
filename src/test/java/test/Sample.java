@@ -24,6 +24,11 @@ public class Sample {
 		System.out.println("test3");
 	}
 	
+	@Test
+	public void Test4() {
+		System.out.println("Test4");
+	}
+	
 
 	
 }
