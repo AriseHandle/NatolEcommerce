@@ -25,8 +25,8 @@ public class Sample {
 	}
 	
 	@Test
-	public void Test4() {
-		System.out.println("Test4");
+	public void Test5() {
+		System.out.println("Test5");
 	}
 	
 
