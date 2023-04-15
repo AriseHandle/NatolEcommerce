@@ -26,9 +26,8 @@ public class Sample {
 	
 	@Test
 	public void Test5() {
-		System.out.println("Test5");
+		System.out.println("make changes done by pratiksha");
 	}
-	
 
 	
 }
