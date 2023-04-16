@@ -29,6 +29,10 @@ public class Sample {
 		System.out.println("Test5");
 	}
 	
-
+	@Test
+	public void Test7() {
+		System.out.println("Adding test 7");
+	}
+	
 	
 }
