@@ -24,8 +24,6 @@ public class Sample {
 		System.out.println("test3");
 	}
 	
-	
-	
 
 	
 }
