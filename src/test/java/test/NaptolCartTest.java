@@ -142,7 +142,7 @@ public class NaptolCartTest extends BaseTest {
 		{
 			test.log(Status.FAIL, result.getName());
 		}
-		else if(result.getStatus()== ITes.SKIP) 
+		else if(result.getStatus()== ITestResult.SKIP) 
 		{
 			test.log(Status.SKIP, result.getName());
 		}

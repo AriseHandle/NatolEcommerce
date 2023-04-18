@@ -19,6 +19,7 @@
         <methods>
           <include name="openBrowser"/>
           <include name="verifyProductsAreDisplayedForValidSearch"/>
+          <include name="verifyProductsAreNotDisplayedForInvalidSearch"/>
         </methods>
       </class> <!-- test.VerifyProductsAreDisplayedPostSearch -->
     </classes>
