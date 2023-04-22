@@ -21,7 +21,7 @@ public class Sample {
 	
 	@Test (dependsOnMethods = "Test2")
 	public void Test3() {
-		System.out.println("test3");
+		System.out.println("snehal");
 	}
 
 	
