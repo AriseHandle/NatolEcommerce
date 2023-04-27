@@ -23,6 +23,7 @@ public class Sample {
 	public void Test3() {
 		System.out.println("test3");
 	}
+}
 
 	
 
